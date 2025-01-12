@@ -1,4 +1,4 @@
-# 🎬 VIDEY - The Underground Video Arsenal
+# VIDEY - The Underground Video Arsenal
 
 ```ascii
 ██╗   ██╗██╗██████╗ ███████╗██╗   ██╗
@@ -9,56 +9,52 @@
   ╚═══╝  ╚═╝╚═════╝ ╚══════╝   ╚═╝   
 ```
 
-> *"Where bits become pixels and pixels become power"*
+*"Where bits become pixels and pixels become power"*
 
 ![Videy Elite](https://videy.co.id/template/og.jpg)
+<title>Kontak WhatsApp</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="contact-container">
+    <h2>Hubungi Saya di WhatsApp</h2>
+    <a href="https://wa.me/6282387311178" class="whatsapp-btn">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Icon" class="whatsapp-icon">
+      Hubungi Saya
+    </a>
+  </div>
 
-<div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
-[![Security: High](https://img.shields.io/badge/security-high-brightgreen.svg)]()
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
-
-</div>
-
----
-
-## 【﻿ＭＩＳＳＩＯＮ】
+## Mission
 
 Videy is not just another video platform - it's a digital fortress for your content. Built by hackers, for creators, Videy provides military-grade hosting solutions with the simplicity of a stealth operation.
 
-## 【﻿ＣＯＲＥ】ＦＥＡＴＵＲＥＳ
+## Core Features
 
-```bash
-root@videy:~$ cat features.log
-```
+### ⚡ Unlimited Power 
+- Zero bandwidth restrictions with unlimited scaling potential
+- Infinite storage capabilities for your growing content needs
+- No file size limitations - upload without boundaries
+- Real-time processing for immediate content delivery
 
-### ⚡ UNLIMITED POWER 
-- Zero bandwidth restrictions
-- Infinite storage potential
-- Maximum file size: /dev/null
-- Real-time processing capabilities
+### 🔒 Stealth Mode
+- Enterprise-grade encryption protecting your valuable content
+- Zero-knowledge architecture ensuring complete privacy
+- Fortress-level security protocols guarding against threats
+- Advanced anti-tamper mechanisms for content integrity
 
-### 🔒 STEALTH MODE
-- Enterprise-grade encryption
-- Zero-knowledge architecture
-- Fortress-level security protocols
-- Anti-tamper mechanisms
+### ⚔️ Arsenal
+- Comprehensive multi-format video support for any content type
+- Lightning-fast CDN network ensuring global delivery
+- State-of-the-art encoding algorithms for optimal quality
+- Seamless custom codec integration capabilities
 
-### ⚔️ ARSENAL
-- Multi-format video support
-- Lightning-fast CDN network
-- Advanced encoding algorithms
-- Custom codec integration
+### 🌐 Global Reach
+- Distributed node network for reliable content delivery
+- Ultra-low-latency streaming technology
+- Edge computing optimization for enhanced performance
+- Geographic redundancy ensuring 24/7 availability
 
-### 🌐 GLOBAL REACH
-- Distributed node network
-- Low-latency streaming
-- Edge computing optimization
-- Geographic redundancy
-
-## 【﻿DEPLOYMENT】
+## Deployment
 
 ```javascript
 // Initialize your video empire
@@ -78,7 +74,7 @@ videy.deploy(config).then(() => {
 });
 ```
 
-## 【﻿ＳＴＡＴＳ】
+## Platform Statistics
 
 ```
 Uptime: 99.99%
@@ -89,7 +85,7 @@ Nodes: Worldwide
 Response Time: <50ms
 ```
 
-## 【﻿ＳＥＣＵＲＩＴＹ】
+## Security Implementation
 
 ```python
 class VideySecurity:
@@ -100,14 +96,14 @@ class VideySecurity:
         self.monitoring = "24/7"
 ```
 
-## 【﻿REQUIREMENTS】
+## System Requirements
 
 - Node.js >= 14.x
 - Modern web browser
 - Internet connection
 - Determination to dominate
 
-## 【﻿QUICK】START
+## Quick Start Guide
 
 ```bash
 # Clone the arsenal
@@ -123,7 +119,7 @@ npm install
 npm run deploy
 ```
 
-## 【﻿API】REFERENCE
+## API Reference
 
 ```javascript
 // Authentication
@@ -147,7 +143,7 @@ const stream = videy.stream({
 });
 ```
 
-## 【﻿CONTRIBUTION】
+## Contributing
 
 ```bash
 # Join the elite force
@@ -158,40 +154,22 @@ const stream = videy.stream({
 5. Open a Pull Request
 ```
 
-## 【﻿LICENSE】
+## License
 
-```
 MIT License
-
 Copyright (c) 2024 Videy Platform
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files.
-```
 
-## 【﻿CONTACT】
+## Contact
 
-```python
-def contact():
-    email = "ops@videy.co.id"
-    discord = "https://discord.gg/videy"
-    twitter = "@videy_platform"
-    return {"success": True, "message": "We await your signal"}
-```
+Technical Support: +62 819-3729-6315
 
 ---
 
-<div align="center">
-
-### 【﻿JOIN】THE】ELITE
+### Join the Elite
 
 *Ready to unleash your video content into the digital realm?*
 *Join the ranks of elite content creators who trust Videy with their digital arsenal.*
 
-```bash
-chmod +x your_content.mp4 && ./deploy.sh
-```
-
 **[Get Started](https://videy.co.id/register) • [Documentation](https://docs.videy.co.id) • [Community](https://community.videy.co.id)**
-
-</div>
